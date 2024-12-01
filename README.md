@@ -32,10 +32,6 @@
 </td>
 
 <td align="center" width="20%">
-<img height=60px src="https://www.vectorlogo.zone/logos/codeigniter/codeigniter-ar21.svg"> 
-</td>
-
-<td align="center" width="20%">
 <img height=100px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 
@@ -45,6 +41,10 @@
 
 <td align="center" width="20%">
 <img height=100px src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"> 
+</td>
+
+<td align="center" width="20%">
+<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
 </td>
 </tr>
 </tbody>
