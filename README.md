@@ -27,37 +27,25 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/codeigniter/codeigniter-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
+<td align="center" width="20%">
+<img height=100px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 
+<td align="center" width="20%">
+<img height=100px src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> 
 </td>
 
-</tr>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
- 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
+<td align="center" width="20%">
+<img height=100px src="https://www.vectorlogo.zone/logos/gin-gonic/gin-gonic-ar21.svg"> 
 </td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-<tr>
- 
- </tr>
-</tbody>
-</table>
 
 ### I'm currently learning :open_book:
 
