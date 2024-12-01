@@ -1,6 +1,6 @@
-### Hello World, I'm Putra Winly Octavianto :purple_heart:
+### Hello World, I'm Putra Winly Octavianto:
 
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 100/>
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 50px/>
 
 ---
 
@@ -8,54 +8,34 @@
 
 ### My skills :man_technologist:
 
-- **Competitive Coding**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
-</td>
-
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
-
 - **Web Development**
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"> 
 </td>
 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
 </td>
 
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"> 
 </td>
 
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+</td>
+
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+</td>
 </tr>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
- 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-<tr>
- 
- </tr>
 </tbody>
 </table>
 
