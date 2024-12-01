@@ -43,24 +43,24 @@
 </td>
 
 <td align="center" width="20%">
-<img height=100px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 
 <td align="center" width="20%">
-<img height=100px src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> 
 </td>
 
 <td align="center" width="20%">
-<img height=100px src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"> 
 </td>
 
 <td align="center" width="20%">
-<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
 </td>
 </tr>
 <tr>
 <td align="center" width="20%">
-<img height=100px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> 
 </td>
 </tr>
 </tbody>
