@@ -108,9 +108,3 @@
 <img align="left" alt="Shreya's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br><br>
-
-#### Thanks for visiting :heart:
-
-![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
-
-⭐️ From [Shreya549](https://github.com/Shreya549)
