@@ -1,6 +1,6 @@
 ### Hello World, I'm Putra Winly Octavianto :purple_heart:
 
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 100/>
 
 ---
 
@@ -17,7 +17,7 @@
 </td>
 
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> 
 </td>
 </tr>
 </tbody>
