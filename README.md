@@ -44,7 +44,7 @@
 </td>
 
 <td align="center" width="20%">
-<img height=100px src="https://www.vectorlogo.zone/logos/gin-gonic/gin-gonic-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"> 
 </td>
 </tr>
 </tbody>
@@ -52,8 +52,6 @@
 
 ### I'm currently learning :open_book:
 
-- **Competitive Coding**
-  - Dynamic Programming
 - **Web Development**
 <table>
 <tbody>
