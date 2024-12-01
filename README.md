@@ -1,4 +1,4 @@
-### Hello World, I'm Putra Winly Octavianto :purple_heart:
+### Hello World, I'm Putra Winly Octavianto :rocket:
 
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 100/>
 
