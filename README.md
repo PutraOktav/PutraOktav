@@ -13,11 +13,11 @@
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
 </td>
 
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
 </td>
 </tr>
 </tbody>
