@@ -65,7 +65,7 @@
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> 
 </td>
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
