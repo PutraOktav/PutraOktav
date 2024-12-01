@@ -12,19 +12,19 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"> 
 </td>
 </tr>
