@@ -46,6 +46,9 @@
 <td align="center" width="20%">
 <img height=100px src="https://www.vectorlogo.zone/logos/gin-gonic/gin-gonic-ar21.svg"> 
 </td>
+</tr>
+</tbody>
+</table>
 
 ### I'm currently learning :open_book:
 
